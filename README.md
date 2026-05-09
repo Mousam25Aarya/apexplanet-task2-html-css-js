@@ -76,4 +76,5 @@ https://github.com/Mousam25Aarya/apexplanet-task2-html-css-js.git
 
 ## 👤 Author
 Mousam KUMARI 
+---
 ApexPlanet Software Pvt Ltd — Web Development Internship
