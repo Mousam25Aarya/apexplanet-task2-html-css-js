@@ -62,7 +62,7 @@ task2-html-css-js/
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/your-username/apexplanet-task2-html-css-js.git
+https://github.com/Mousam25Aarya/apexplanet-task2-html-css-js.git
 ```
 2. Open any file directly in your browser:
    - `index.html` → Contact Form
